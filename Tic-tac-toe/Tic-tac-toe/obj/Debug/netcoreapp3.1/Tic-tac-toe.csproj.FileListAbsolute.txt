@@ -1,0 +1,13 @@
+D:\Projects\First-repository\Tic-tac-toe\Tic-tac-toe\bin\Debug\netcoreapp3.1\Tic-tac-toe.exe
+D:\Projects\First-repository\Tic-tac-toe\Tic-tac-toe\bin\Debug\netcoreapp3.1\Tic-tac-toe.deps.json
+D:\Projects\First-repository\Tic-tac-toe\Tic-tac-toe\bin\Debug\netcoreapp3.1\Tic-tac-toe.runtimeconfig.json
+D:\Projects\First-repository\Tic-tac-toe\Tic-tac-toe\bin\Debug\netcoreapp3.1\Tic-tac-toe.runtimeconfig.dev.json
+D:\Projects\First-repository\Tic-tac-toe\Tic-tac-toe\bin\Debug\netcoreapp3.1\Tic-tac-toe.dll
+D:\Projects\First-repository\Tic-tac-toe\Tic-tac-toe\bin\Debug\netcoreapp3.1\Tic-tac-toe.pdb
+D:\Projects\First-repository\Tic-tac-toe\Tic-tac-toe\obj\Debug\netcoreapp3.1\Tic-tac-toe.csprojAssemblyReference.cache
+D:\Projects\First-repository\Tic-tac-toe\Tic-tac-toe\obj\Debug\netcoreapp3.1\Tic-tac-toe.AssemblyInfoInputs.cache
+D:\Projects\First-repository\Tic-tac-toe\Tic-tac-toe\obj\Debug\netcoreapp3.1\Tic-tac-toe.AssemblyInfo.cs
+D:\Projects\First-repository\Tic-tac-toe\Tic-tac-toe\obj\Debug\netcoreapp3.1\Tic-tac-toe.csproj.CoreCompileInputs.cache
+D:\Projects\First-repository\Tic-tac-toe\Tic-tac-toe\obj\Debug\netcoreapp3.1\Tic-tac-toe.dll
+D:\Projects\First-repository\Tic-tac-toe\Tic-tac-toe\obj\Debug\netcoreapp3.1\Tic-tac-toe.pdb
+D:\Projects\First-repository\Tic-tac-toe\Tic-tac-toe\obj\Debug\netcoreapp3.1\Tic-tac-toe.genruntimeconfig.cache
