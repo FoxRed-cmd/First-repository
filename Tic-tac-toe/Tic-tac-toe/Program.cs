@@ -361,7 +361,7 @@ namespace Tic_tac_toe
 
 			Console.WriteLine("GameOver");
 			Console.WriteLine("Чтобы начать завново, нажмите - R");
-			Console.WriteLine("Чтобы закрыть консоль, нажмите - E");
+			Console.WriteLine("Чтобы закрыть консоль, нажмите - Escape");
 
 			ConsoleKey begin;
 			begin = Console.ReadKey().Key;
@@ -370,7 +370,7 @@ namespace Tic_tac_toe
 			{
 				case ConsoleKey.R:
 					goto link2;
-				case ConsoleKey.E:
+				case ConsoleKey.Escape:
 					Environment.Exit(0);
 					break;
 				default:
