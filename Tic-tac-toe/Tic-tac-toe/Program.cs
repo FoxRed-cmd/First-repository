@@ -12,6 +12,7 @@ namespace Tic_tac_toe
 		public static bool Draw()
 		{
 			bool win = true, step = true;
+			const int SLEEP = 1000;
 
 			int rows = 3;
 			int cols = 3;
@@ -83,8 +84,9 @@ namespace Tic_tac_toe
 						}
 						else
 						{
+							Console.WriteLine();
 							Console.WriteLine("Клетка уже не пуста!");
-							System.Threading.Thread.Sleep(500);
+							System.Threading.Thread.Sleep(SLEEP);
 						}
 						goto link;
 
@@ -96,8 +98,9 @@ namespace Tic_tac_toe
 						}
 						else
 						{
+							Console.WriteLine();
 							Console.WriteLine("Клетка уже не пуста!");
-							System.Threading.Thread.Sleep(500);
+							System.Threading.Thread.Sleep(SLEEP);
 						}
 						goto link;
 
@@ -109,8 +112,9 @@ namespace Tic_tac_toe
 						}
 						else
 						{
+							Console.WriteLine();
 							Console.WriteLine("Клетка уже не пуста!");
-							System.Threading.Thread.Sleep(500);
+							System.Threading.Thread.Sleep(SLEEP);
 						}
 
 						goto link;
@@ -123,8 +127,9 @@ namespace Tic_tac_toe
 						}
 						else
 						{
+							Console.WriteLine();
 							Console.WriteLine("Клетка уже не пуста!");
-							System.Threading.Thread.Sleep(500);
+							System.Threading.Thread.Sleep(SLEEP);
 						}
 
 						goto link;
@@ -137,8 +142,9 @@ namespace Tic_tac_toe
 						}
 						else
 						{
+							Console.WriteLine();
 							Console.WriteLine("Клетка уже не пуста!");
-							System.Threading.Thread.Sleep(500);
+							System.Threading.Thread.Sleep(SLEEP);
 						}
 
 						goto link;
@@ -151,8 +157,9 @@ namespace Tic_tac_toe
 						}
 						else
 						{
+							Console.WriteLine();
 							Console.WriteLine("Клетка уже не пуста!");
-							System.Threading.Thread.Sleep(500);
+							System.Threading.Thread.Sleep(SLEEP);
 						}
 
 						goto link;
@@ -165,8 +172,9 @@ namespace Tic_tac_toe
 						}
 						else
 						{
+							Console.WriteLine();
 							Console.WriteLine("Клетка уже не пуста!");
-							System.Threading.Thread.Sleep(500);
+							System.Threading.Thread.Sleep(SLEEP);
 						}
 
 						goto link;
@@ -179,8 +187,9 @@ namespace Tic_tac_toe
 						}
 						else
 						{
+							Console.WriteLine();
 							Console.WriteLine("Клетка уже не пуста!");
-							System.Threading.Thread.Sleep(500);
+							System.Threading.Thread.Sleep(SLEEP);
 						}
 
 						goto link;
@@ -193,8 +202,9 @@ namespace Tic_tac_toe
 						}
 						else
 						{
+							Console.WriteLine();
 							Console.WriteLine("Клетка уже не пуста!");
-							System.Threading.Thread.Sleep(500);
+							System.Threading.Thread.Sleep(SLEEP);
 						}
 
 						goto link;
@@ -221,8 +231,9 @@ namespace Tic_tac_toe
 						}
 						else
 						{
+							Console.WriteLine();
 							Console.WriteLine("Клетка уже не пуста!");
-							System.Threading.Thread.Sleep(500);
+							System.Threading.Thread.Sleep(SLEEP);
 						}
 						goto link;
 
@@ -234,8 +245,9 @@ namespace Tic_tac_toe
 						}
 						else
 						{
+							Console.WriteLine();
 							Console.WriteLine("Клетка уже не пуста!");
-							System.Threading.Thread.Sleep(500);
+							System.Threading.Thread.Sleep(SLEEP);
 						}
 						goto link;
 
@@ -247,8 +259,9 @@ namespace Tic_tac_toe
 						}
 						else
 						{
+							Console.WriteLine();
 							Console.WriteLine("Клетка уже не пуста!");
-							System.Threading.Thread.Sleep(500);
+							System.Threading.Thread.Sleep(SLEEP);
 						}
 
 						goto link;
@@ -261,8 +274,9 @@ namespace Tic_tac_toe
 						}
 						else
 						{
+							Console.WriteLine();
 							Console.WriteLine("Клетка уже не пуста!");
-							System.Threading.Thread.Sleep(500);
+							System.Threading.Thread.Sleep(SLEEP);
 						}
 
 						goto link;
@@ -275,8 +289,9 @@ namespace Tic_tac_toe
 						}
 						else
 						{
+							Console.WriteLine();
 							Console.WriteLine("Клетка уже не пуста!");
-							System.Threading.Thread.Sleep(500);
+							System.Threading.Thread.Sleep(SLEEP);
 						}
 
 						goto link;
@@ -289,8 +304,9 @@ namespace Tic_tac_toe
 						}
 						else
 						{
+							Console.WriteLine();
 							Console.WriteLine("Клетка уже не пуста!");
-							System.Threading.Thread.Sleep(500);
+							System.Threading.Thread.Sleep(SLEEP);
 						}
 
 						goto link;
@@ -303,8 +319,9 @@ namespace Tic_tac_toe
 						}
 						else
 						{
+							Console.WriteLine();
 							Console.WriteLine("Клетка уже не пуста!");
-							System.Threading.Thread.Sleep(500);
+							System.Threading.Thread.Sleep(SLEEP);
 						}
 
 						goto link;
@@ -317,8 +334,9 @@ namespace Tic_tac_toe
 						}
 						else
 						{
+							Console.WriteLine();
 							Console.WriteLine("Клетка уже не пуста!");
-							System.Threading.Thread.Sleep(500);
+							System.Threading.Thread.Sleep(SLEEP);
 						}
 
 						goto link;
@@ -331,8 +349,9 @@ namespace Tic_tac_toe
 						}
 						else
 						{
+							Console.WriteLine();
 							Console.WriteLine("Клетка уже не пуста!");
-							System.Threading.Thread.Sleep(500);
+							System.Threading.Thread.Sleep(SLEEP);
 						}
 
 						goto link;
